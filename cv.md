@@ -3,14 +3,14 @@
 ## Contact: ##
 
 * E-mail: igor.pryazhenstev@mail.ru
-* Disscord: igor Keane(@IgorPryazhentsev)
+* Discord: igor Keane(@IgorPryazhentsev)
 * Github: [IgorPryazhentsev](https://github.com/IgorPryazhentsev)
 
 ## About: ##
 
 I am a beginner frontend developer. Every day I improve in this profession to become a professional in this field
 
-## ABOUT ##
+## Skills ##
 
 * JS
 * HTML
