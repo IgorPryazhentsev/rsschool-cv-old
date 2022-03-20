@@ -1,15 +1,20 @@
 # Igor Pryazhentsev #
+
 ***
 ## Contact: ##
 
-E-mail: igor.pryazhenstev@mail.ru
-Disscord: igor Keane(@IgorPryazhentsev)
-Github: [IgorPryazhentsev](https://github.com/IgorPryazhentsev)
+* E-mail: igor.pryazhenstev@mail.ru
+* Disscord: igor Keane(@IgorPryazhentsev)
+* Github: [IgorPryazhentsev](https://github.com/IgorPryazhentsev)
+
 ***
+
 ## About: ##
 
 I am a beginner frontend developer. Every day I improve in this profession to become a professional in this field
+
 ***
+
 ## ABOUT ##
 
 * JS
@@ -18,6 +23,7 @@ I am a beginner frontend developer. Every day I improve in this profession to be
 * GIT
 
 ***
+
 ## CODE ##
 
 ```function dataReverse(data) {
@@ -33,14 +39,19 @@ I am a beginner frontend developer. Every day I improve in this profession to be
 }
 ```
 ***
+
 ## Working experience ##
 
 * No experience
+
 ***
+
 ## Education ##
 
 * Yaroslavl State University, Industrial and Civil Engineering
+
 ***
+
 ## Languages ##
 
 * English-A1(Elementary)
