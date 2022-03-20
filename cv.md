@@ -2,8 +2,7 @@
 
 ##Contact:##
 
-Phone: 
-E-mail: 
+E-mail: igor.pryazhenstev@mail.ru
 Disscord: igor Keane(@IgorPryazhentsev)
 Github: [IgorPryazhentsev](https://github.com/IgorPryazhentsev)
 
