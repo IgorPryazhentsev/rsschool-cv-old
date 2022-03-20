@@ -16,6 +16,7 @@ I am a beginner frontend developer. Every day I improve in this profession to be
 * HTML
 * CSS
 * GIT
+
 ***
 ## CODE ##
 
